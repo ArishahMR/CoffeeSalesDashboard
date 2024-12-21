@@ -19,16 +19,16 @@ This project is a Coffee Sales Dashboard created using Microsoft Excel. The dash
 
 
 ## Process
-1. Data Cleaning: The raw dataset was imported into Excel, and necessary data transformations (e.g., removing duplicates, and formatting date columns) were applied.
+<b>1. Data Cleaning</b>: The raw dataset was imported into Excel, and necessary data transformations (e.g., removing duplicates, and formatting date columns) were applied.
    
-2. XLOOKUP: Used XLOOKUP to match and retrieve data across multiple sheets efficiently
+<b>2. XLOOKUP</b>: Used XLOOKUP to match and retrieve data across multiple sheets efficiently
    
-3. Dashboard Design: Using Excel tools like pivot tables, charts, and slicers, the dashboard was designed for ease of use and interactivity.
+<b>3. Dashboard Design</b>: Using Excel tools like pivot tables, charts, and slicers, the dashboard was designed for ease of use and interactivity.
 
 
 ## Insights
-1. Sales were highest in the United States, with RM35,638.89 in total sales.
+   1. Sales were highest in the United States, with RM35,638.89 in total sales.
 
-2. The most popular customer was Don Flintiff, contributing RM317.07.
+   2. The most popular customer was Don Flintiff, contributing RM317.07.
 
-3. Arabica coffee consistently performed well over the years.
+   3. Arabica coffee consistently performed well over the years.
