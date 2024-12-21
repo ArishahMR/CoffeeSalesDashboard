@@ -27,8 +27,8 @@ This project is a Coffee Sales Dashboard created using Microsoft Excel. The dash
 
 
 ## Insights
-   1. Sales were highest in the United States, with RM35,638.89 in total sales.
+1. Sales were highest in the United States, with RM35,638.89 in total sales.
 
-   2. The most popular customer was Don Flintiff, contributing RM317.07.
+2. The most popular customer was Don Flintiff, contributing RM317.07.
 
-   3. Arabica coffee consistently performed well over the years.
+3. Arabica coffee has consistently performed well over the years.
