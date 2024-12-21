@@ -1,2 +1,2 @@
-# CoffeeSalesDashboard
-As a project, I followed a YouTube tutorial to create a Dashboard in Excel featuring Coffee Sales. The process of analysis included cleaning the data, creating tables, and data visualisation.
+## Overview
+This project is a Coffee Sales Dashboard created using Microsoft Excel. The dashboard visualizes coffee sales data across various metrics, such as total sales over time, sales per country, and top customers. The project was inspired by a YouTube tutorial by Mo Chen.
